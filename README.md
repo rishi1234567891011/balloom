@@ -1,1 +1,2 @@
-# balloom
+# synchronousBallMovement
+Ball moving synchronously
